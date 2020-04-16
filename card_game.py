@@ -1,8 +1,4 @@
-#####################################
-### WELCOME TO YOUR OOP PROJECT #####
-#####################################
-
-# For this project you will be using OOP to create a card game. This card game will
+# This card game will
 # be the card game "War" for two players, you an the computer. If you don't know
 # how to play "War" here are the basic rules:
 #
